@@ -1,4 +1,5 @@
 # 💫 About Me:
+I am a passionate computer science student who enjoys project work.
 I am currently working in AI/ML, focusing on developing algorithms to enhance predictive analytics and improve data-driven decision-making.
 
 
